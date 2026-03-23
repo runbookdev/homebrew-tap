@@ -2,8 +2,6 @@
 
 Executable runbooks as code — documentation and automation in a single file.
 
-> WIP
-
 ## Install
 ```bash
 brew install runbookdev/tap/runbook
