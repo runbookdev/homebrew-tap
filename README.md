@@ -17,4 +17,3 @@ brew upgrade runbook
 ## More info
 
 - Main repo: [github.com/runbookdev/runbook](https://github.com/runbookdev/runbook)
-```
